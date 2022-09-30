@@ -19,6 +19,7 @@ $buku = query("SELECT * FROM buku");
     <title>Praktikum web_203040108</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/button.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>
     </style>
 </head>
