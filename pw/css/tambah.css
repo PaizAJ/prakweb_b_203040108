@@ -1,0 +1,21 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    background: #a7dbd8;
+    padding: 50px;
+    border: 2px solid rgba(0, 0, 0, 1);
+    box-shadow: 15px 15px 1px #69d2e7, 15px 15px 1px 2px rgba(0, 0, 0, 1);
+}
+.submit {
+    background-color: #69d2e7;
+    color: black;
+}
+.back {
+    background-color: #e0e4cc;
+}
