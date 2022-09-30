@@ -16,7 +16,7 @@ $buku = query("SELECT * FROM buku");
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>203040108</title>
+    <title>Praktikum web_203040108</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/button.css">
     <style>
@@ -24,7 +24,7 @@ $buku = query("SELECT * FROM buku");
 </head>
 <body>
 <div class="add">
-        <a href="tambah.php"><button class="tambah" id="tambah">Tambah Data</button></a>
+        <a href="tambah.php"><button class="tambah" id="tambah">Tambah</button></a>
     </div>
 
 <div class="table">
